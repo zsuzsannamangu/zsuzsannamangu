@@ -14,7 +14,7 @@ In addition to my tech journey, I run a small chocolate business focused on sust
 ### 🌱 Interests:
 
 * Sustainable living and ethical sourcing
-* Gardening, cooking, and baking
+* Cooking, and baking
 * Somatic practices through yoga
 
 I'm always eager to connect with fellow developers and collaborate on innovative projects.
