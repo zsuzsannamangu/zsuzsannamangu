@@ -6,15 +6,15 @@ In addition to my tech journey, I run a small chocolate business focused on sust
 
 ### 🔧 Skills:
 
-Languages: Python, JavaScript, C#
-Frameworks: Django, .NET, TensorFlow
-Technologies: AI & Machine Learning, Web Development
-Other: Project Management, Video Production, Customer Service
+* Languages: Python, JavaScript, C#
+* Frameworks: Django, .NET, TensorFlow
+* Technologies: AI & Machine Learning, Web Development
+* Other: Project Management, Video Production, Customer Service
 
 ### 🌱 Interests:
 
-Sustainable living and ethical sourcing
-Gardening, cooking, and baking
-Somatic practices through yoga
+* Sustainable living and ethical sourcing
+* Gardening, cooking, and baking
+* Somatic practices through yoga
 
 I'm always eager to connect with fellow developers and collaborate on innovative projects.
