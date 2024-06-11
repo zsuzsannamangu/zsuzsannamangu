@@ -4,14 +4,14 @@ I'm a software developer with a background in web development, artificial intell
 
 In addition to my tech journey, I run a small chocolate business focused on sustainability and ethical sourcing, and I'm a freelance video producer with a knack for storytelling through video. I'm also a part-time yoga teacher, bringing mindfulness and balance into my life and the lives of others.
 
-# 🔧 Skills:
+### 🔧 Skills:
 
 Languages: Python, JavaScript, C#
 Frameworks: Django, .NET, TensorFlow
 Technologies: AI & Machine Learning, Web Development
 Other: Project Management, Video Production, Customer Service
 
-# 🌱 Interests:
+### 🌱 Interests:
 
 Sustainable living and ethical sourcing
 Gardening, cooking, and baking
